@@ -1,0 +1,15 @@
+Um repositório do GitHub é um local online onde você pode armazenar, gerenciar e compartilhar projetos que usam o sistema de controle de versão Git.
+
+Ele permite que você:
+
+Organize seu código-fonte e arquivos relacionados ao projeto;
+
+Acompanhe o histórico de mudanças feitas no projeto;
+
+Colabore com outras pessoas, recebendo contribuições por meio de pull requests;
+
+Crie versões e documentações do seu projeto;
+
+Hospede projetos open source ou privados.
+
+Cada repositório pode conter arquivos, pastas, commits, branches (ramificações), issues (tarefas ou bugs), e uma área de README para explicar o propósito do projeto.
